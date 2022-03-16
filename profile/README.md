@@ -1,6 +1,6 @@
 ## Blaze
 
-The one and only open-source Fortnite private server!
+The original one-and-only private server and modding platform for Fortnite!
 
 <!--
 
