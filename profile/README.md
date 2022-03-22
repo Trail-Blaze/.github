@@ -1,7 +1,19 @@
 ## Blaze
-
 The original one-and-only private server and modding platform for Fortnite!
 
+### DEVELOPMENT SCHEDULE
+
+| | SCHEDULE CHART|
+| ----- | --------|
+| | **2022** |
+|January|Deprecation of the [Dynamite](https://github.com/trail-blaze/dynamite-core) backend|
+|June-July|Creation of the **D**`*@!($#`**X** and **G**`#\*@$(2`**X** backend|
+|August|Testing of both backends|
+|September-November|Code clean-up and revamp of launcher to fit needs|
+|December|Release new backend and launcher to public|
+| | **2023**|
+|January|More work on Blaze module shop|
+|?? | ????|
 <!--
 
 **Here are some ideas to get you started:**
