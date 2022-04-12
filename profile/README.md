@@ -1,6 +1,12 @@
 ## Blaze
 The original one-and-only private server and modding platform for Fortnite!
 
+### ANNOUNCEMENTS
+| | Announcements|
+| ----- | --------|
+| | **2022** |
+|April 12, 2022 `1:24AM CST`|We are happy to announce that we're starting to roll out a development build for those who choose to participate in the testing of Blaze. More details on how to aquire a development client will be posted soon.|
+
 ### DEVELOPMENT SCHEDULE
 
 | | SCHEDULE CHART|
